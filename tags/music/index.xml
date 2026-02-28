@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Music on Yerong.Li</title>
-    <link>http://localhost:1313/tags/music/</link>
+    <link>https://yerong27.github.io/tags/music/</link>
     <description>Recent content in Music on Yerong.Li</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 05 Nov 2024 18:00:24 +1100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yerong27.github.io/tags/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ascendence Remix</title>
-      <link>http://localhost:1313/posts/2024/11/ascendence-remix/</link>
+      <link>https://yerong27.github.io/posts/2024/11/ascendence-remix/</link>
       <pubDate>Tue, 05 Nov 2024 18:00:24 +1100</pubDate>
-      <guid>http://localhost:1313/posts/2024/11/ascendence-remix/</guid>
+      <guid>https://yerong27.github.io/posts/2024/11/ascendence-remix/</guid>
       <description>Remix by Yerong Li on 05 Nov 2024.&#xA;No sampling permission. Please do not sue me. 🥲&#xA;Please enjoy! 😎 Ascendence Remix (The Matrix🤖 version) Sampling source Ascendence from &amp;ldquo;Who Killed AI?&amp;rdquo; by Kenny Garrett &amp;amp; Svoy.&#xA;Vocal from the Wix ads. You may encounter it already if you use YouTube.</description>
     </item>
   </channel>
